@@ -9,7 +9,7 @@ Ca. 6 portioner.
 * 250 g. broccoli
 * 100 g. skållad eller hel mandel
 * 100 g. smör eller ghee
-* 1 tärning kycklingbuljong
+* 1 tärning grönsaksbuljong
 * 1 dl. russin
 * 1 dl. hackad färsk koriander (garnering)
 
