@@ -34,8 +34,8 @@ Kryddor:
 * Låt koka tills allt är mjukt och potatisen fallit sönder (ca. 10-15 min brukar räcka.)
 * Tillsätt curry och gurkmeja
 * Mixa soppan helt slät med stavmixer
-* Späd med resten av vattnet tills soppan blir lagom tjock
 * Red med grädden (2 dl.)
+* Späd med resten av vattnet tills soppan blir lagom tjock
 * Låt soppan puttra på låg värme en stund
 * Smaka av med färskmalen svartpeppar och ev. salt (fast buljongen är rätt salt redan)
 
