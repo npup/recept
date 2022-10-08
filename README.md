@@ -8,6 +8,7 @@ Några recept som visat sig gångbara
   * [Pasta med räkor]
   * [Chicken korma]
   * [Potatis- och purjolökssoppa]
+  * [Kålpudding]
 
 
 
@@ -16,3 +17,4 @@ Några recept som visat sig gångbara
 [Pasta med räkor]: pasta-med-räkor.md
 [Chicken korma]: chicken-korma.md
 [Potatis- och purjolökssoppa]: potatis-och-purjolökssoppa.md
+[Kålpudding]: kalpudding.md
