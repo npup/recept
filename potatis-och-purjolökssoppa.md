@@ -40,3 +40,16 @@ Kryddor:
 ## Servering
 
 Servera tillsammans med smörgåsar och stark herrgårdsost
+
+
+### Kostnad (exklusive kryddor)
+
+* Smör (500 g. 40 kr) => **4 kr.**
+* Potatis (15 kr/kg)  => **12 kr.**
+* Gul lök (25 kr/kg) => **7.50 kr.**
+* Purjolök (30 kr/kg) => **10 kr.**
+* Vitlök (2 st. 20 kr) => **3 kr.**
+* Buljongtärningar (6st 9.90 kr) => **5 kr.**
+* Grädde (3 dl 20 kr) => **14 kr.**
+
+Summa: **55.50**
