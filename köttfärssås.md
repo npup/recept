@@ -8,7 +8,7 @@ Man behöver en ganska stor gryta.
 
 * Köttfärs (nöt), ca 1000 g.
 * Gul lök, 2-3 st. ganska stora.
-* Vitlök, 3-3 klyftor
+* Vitlök, 2-3 klyftor
 * Grönsaksbuljongtärningar, 2 st.
 * Krossade tomater, 2 paket (á 500 g.)
 * En burk tomatpuré (ca 360 g.)
