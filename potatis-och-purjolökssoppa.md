@@ -42,7 +42,7 @@ Kryddor:
 Servera tillsammans med smörgåsar och stark herrgårdsost
 
 
-### Kostnad (exklusive kryddor)
+## Kostnad (exklusive kryddor)
 
 * Smör (500 g. 40 kr) => **4 kr.**
 * Potatis (15 kr/kg)  => **12 kr.**

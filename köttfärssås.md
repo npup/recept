@@ -48,7 +48,7 @@ Kryddor:
 Riven ost och en sallad är gott till.
 
 
-### Kostnad (exklusive kryddor)
+## Kostnad (exklusive kryddor)
 
 * Köttfärs (nöt) (100 kr/kg) => **100 kr.**
 * Gul lök (25 kr/kg) => **7.50 kr.**
