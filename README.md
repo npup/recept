@@ -9,6 +9,7 @@ Några recept som visat sig gångbara
   * [Chicken korma]
   * [Potatis- och purjolökssoppa]
   * [Kålpudding]
+  * [Köttfärssås]
 
 
 
@@ -18,3 +19,4 @@ Några recept som visat sig gångbara
 [Chicken korma]: chicken-korma.md
 [Potatis- och purjolökssoppa]: potatis-och-purjolökssoppa.md
 [Kålpudding]: kalpudding.md
+[Köttfärssås]: köttfärssås.md

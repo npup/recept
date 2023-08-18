@@ -8,7 +8,7 @@ Ca. 8 portioner.
 
 * Smör, 50 g.
 * Potatis, 800 g.
-* Gul lök, 300 g.
+* Gul lök, 300 g. (ca 2 st. ganska stora)
 * Purjolök, 1 **stor** (typ)
 * Vitlök, 3 klyftor
 * Grönsaksbuljongtärningar, 3 st.
