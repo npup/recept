@@ -10,6 +10,7 @@ Några recept som visat sig gångbara
   * [Potatis- och purjolökssoppa]
   * [Kålpudding]
   * [Köttfärssås]
+  * [Lasagne]
 
 
 
@@ -20,3 +21,4 @@ Några recept som visat sig gångbara
 [Potatis- och purjolökssoppa]: potatis-och-purjolökssoppa.md
 [Kålpudding]: kalpudding.md
 [Köttfärssås]: köttfärssås.md
+[Lasagne]: lasagne.md
